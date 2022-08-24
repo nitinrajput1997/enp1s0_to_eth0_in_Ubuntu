@@ -24,4 +24,4 @@ $ sudo update-grub
 $ sudo reboot
 ```
 
-**Note:**Make sure you have already done entries in the /etc/netplan/00-___.yml file
+**Note:** Make sure you have already done entries in the /etc/netplan/00-___.yml file
